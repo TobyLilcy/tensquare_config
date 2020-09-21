@@ -12,5 +12,9 @@ spring:
     host: 39.98.49.191
   rabbitmq:
     host: 39.98.49.191
+jwt:
+  config:
+    key: tensquate
+    ttl: 360000
 
 
